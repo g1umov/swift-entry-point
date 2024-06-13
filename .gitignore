@@ -1,0 +1,32 @@
+# Xcode
+#
+# User-specific files
+xcuserdata/
+# Scheme and workspace settings
+*.xcworkspace
+# Project temporary files
+*.xcscmblueprint
+
+# Derived data
+#
+DerivedData/
+
+# Build artifacts
+#
+build/
+
+# Temporary files
+#
+*.moved-aside
+*.xcuserstate
+
+# IDE specific
+#
+*.xccheckout
+
+# Miscellaneous
+#
+.DS_Store
+*.swp
+*.lock
+*~
